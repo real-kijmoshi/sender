@@ -56,10 +56,6 @@ you can ignore files by adding
 now you just need to accept connection on server and send transfer
 
 #
-
-![](example.gif)
-
-#
 ## 📜 License
 
 This program is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
