@@ -1,0 +1,30 @@
+{
+  "name": "sender",
+  "version": "1.0.0",
+  "description": "simple sender",
+  "main": "index.js",
+  "dependencies": {
+    "@types/readline-sync": "^1.4.4",
+    "address": "^1.2.2",
+    "readline-sync": "^1.4.10",
+    "socket.io": "^4.6.1",
+    "socket.io-client": "^4.6.1"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/real-kijmoshi/sender.git"
+  },
+  "keywords": [
+    "sender",
+    "file-sender"
+  ],
+  "author": "real-kijmoshi",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/real-kijmoshi/sender/issues"
+  },
+  "homepage": "https://github.com/real-kijmoshi/sender#readme"
+}
