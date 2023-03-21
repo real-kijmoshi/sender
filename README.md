@@ -43,15 +43,16 @@ example:
 npx ts-node ../sender/client -p dir1/example folder
 ```
 
+```json
+"ignore": ["node_modules", "tests", ...files/folders you want]
+```
+
 ### auth
 
 you can write address and key that server shows or add auth_config.json that server generates to client folder
 
 you can ignore files by adding
 
-```json
-"ignore": ["node_modules", "tests", ...files/folders you want]
-```
 
 now you just need to accept connection on server and send transfer
 
